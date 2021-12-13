@@ -18,5 +18,5 @@ you can simply run the app in your browser
 
 
 # Live demo is hosted at:
-
+https://todo-list-js-2e7c32.netlify.app/
 
